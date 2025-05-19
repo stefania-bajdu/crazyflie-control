@@ -1,0 +1,6 @@
+**/__pycache__/
+**/.vscode/
+ros_ws/build
+ros_ws/cache
+ros_ws/install
+ros_ws/log
